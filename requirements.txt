@@ -1,0 +1,8 @@
+
+streamlit
+langchain
+chromadb
+huggingface_hub
+sentence-transformers
+unstructured
+pytube
